@@ -3,3 +3,5 @@ passwd=ravi
 dbuser config
 mysql data
 hello
+hi aws
+

@@ -1,0 +1,10 @@
+hello devops
+how are you
+<<<<<<< HEAD
+
+=======
+cloud
+images
+data base
+>>>>>>> dev2
+hello
